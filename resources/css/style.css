@@ -1,4 +1,11 @@
 h1{
-  text-align: center;
-  height: auto;
+  font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.cta{
+color: Aquamarine;
+    font-size: 16px;
 }
