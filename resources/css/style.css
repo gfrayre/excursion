@@ -21,3 +21,13 @@ body{
     background-color: black;
     color: white;
 }
+
+p{
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+.footer{
+  text-align: right;
+}
